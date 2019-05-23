@@ -1,0 +1,15 @@
+version: '3'
+services:
+  db:
+    image: 'redis:4-alpine'
+    command: redis-server --requirepass <some-secure-password>
+    ports:
+      - '6379:6379'
+  web:
+    image: home
+    build: ./
+    depends_on:
+      - db
+    container_name: home_web
+    ports:
+      - "8800:8800"
