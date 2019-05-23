@@ -32,7 +32,7 @@
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe#config;1.3.3 [compile->compile(*)]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe#config;1.3.3 [compile->master]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-library;2.12.7 [compile->default]
-[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-library;2.12.7 {compile=[default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master], runtime=[default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master], test=[default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master], compile-internal=[default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master], runtime-internal=[default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master], test-internal=[default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master], plugin=[compile, runtime(*), master(compile), runtime, compile(*), master], scala-tool=[default, master(*), compile, runtime(*), runtime, optional, optional(default), compile(*), master]}
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-library;2.12.7 {compile=[default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master], runtime=[default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master], test=[default, master(*), compile, runtime(*), master(compile), runtime, default(compile), compile(*), master], compile-internal=[default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master], runtime-internal=[default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master], test-internal=[default, master(*), compile, runtime(*), master(compile), runtime, default(compile), compile(*), master], plugin=[compile, runtime(*), master(compile), runtime, compile(*), master], scala-tool=[default, master(*), compile, runtime(*), runtime, optional, optional(default), compile(*), master]}
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.12.7
 [debug] 	found org.scala-lang#scala-library;2.12.7 in sbt-chain
 [debug] 	[2.12.7] org.scala-lang#scala-library;2.12.7
@@ -272,6 +272,7 @@
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-library;2.12.7 [compile->master]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-library;2.12.7 [compile->compile(*)]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-library;2.12.7 [compile->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-library;2.12.7 [compile->master(*)]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-actor_2.12;2.5.22 [compile->default]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-actor_2.12;2.5.22 [compile->runtime]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-actor_2.12;2.5.22 [compile->compile]
@@ -384,6 +385,59 @@
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-agent_2.12;2.5.22 [test->compile]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-agent_2.12;2.5.22 [test->master]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-agent_2.12;2.5.22 [test->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalactic#scalactic_2.12;3.2.0-SNAP10 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.scalactic#scalactic_2.12;3.2.0-SNAP10 {test=[compile, runtime(*), master(compile), runtime, compile(*), master], test-internal=[compile, runtime(*), master(compile), runtime, compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.scalactic#scalactic_2.12;3.2.0-SNAP10
+[debug] 	found org.scalactic#scalactic_2.12;3.2.0-SNAP10 in sbt-chain
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalactic#scalactic_2.12;3.2.0-SNAP10 [test->runtime(*)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalactic#scalactic_2.12;3.2.0-SNAP10 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalactic#scalactic_2.12;3.2.0-SNAP10 [test->master(compile)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalactic#scalactic_2.12;3.2.0-SNAP10 [test->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalactic#scalactic_2.12;3.2.0-SNAP10 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalactic#scalactic_2.12;3.2.0-SNAP10 [test->compile(*)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalactic#scalactic_2.12;3.2.0-SNAP10 [test->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test->default]
+[debug] sbt-chain: Checking cache for: dependency: com.typesafe.akka#akka-testkit_2.12;2.5.22 {test=[default, compile, runtime, default(compile), master], test-internal=[default, compile, runtime, default(compile), master]}
+[debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-testkit_2.12;2.5.22
+[debug] 	found com.typesafe.akka#akka-testkit_2.12;2.5.22 in sbt-chain
+[debug] 	[2.5.22] com.typesafe.akka#akka-testkit_2.12;2.5.22
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test->default(compile)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang.modules#scala-xml_2.12;1.0.6 {test=[compile, runtime(*), master(compile), runtime, compile(*), master], test-internal=[compile, runtime(*), master(compile), runtime, compile(*), master], scala-tool=[master(*), compile, runtime(*), runtime, compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.12;1.0.6
+[debug] 	found org.scala-lang.modules#scala-xml_2.12;1.0.6 in sbt-chain
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test->runtime(*)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test->master(compile)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test->compile(*)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test->default]
+[debug] sbt-chain: Checking cache for: dependency: org.scalatest#scalatest_2.12;3.2.0-SNAP10 {test=[default, compile, runtime, default(compile), master], test-internal=[default, compile, runtime, default(compile), master]}
+[debug] sbt-chain: module revision found in cache: org.scalatest#scalatest_2.12;3.2.0-SNAP10
+[debug] 	found org.scalatest#scalatest_2.12;3.2.0-SNAP10 in sbt-chain
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test->default(compile)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test->master]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe#config;1.3.3 [test->compile]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe#config;1.3.3 [test->runtime(*)]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe#config;1.3.3 [test->compile]
@@ -392,10 +446,23 @@
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe#config;1.3.3 [test->compile]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe#config;1.3.3 [test->compile(*)]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe#config;1.3.3 [test->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-reflect;2.12.7 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-reflect;2.12.7 {test=[compile, runtime(*), master(compile), runtime, compile(*), master], test-internal=[compile, runtime(*), master(compile), runtime, compile(*), master], scala-tool=[master(*), compile, runtime(*), runtime, compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.12.7
+[debug] 	found org.scala-lang#scala-reflect;2.12.7 in sbt-chain
+[debug] 	[2.12.7] org.scala-lang#scala-reflect;2.12.7
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-reflect;2.12.7 [test->runtime(*)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-reflect;2.12.7 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-reflect;2.12.7 [test->master(compile)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-reflect;2.12.7 [test->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-reflect;2.12.7 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-reflect;2.12.7 [test->compile(*)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-reflect;2.12.7 [test->master]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-library;2.12.7 [test->default]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-library;2.12.7 [test->runtime]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-library;2.12.7 [test->compile]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-library;2.12.7 [test->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-library;2.12.7 [test->master(*)]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-library;2.12.7 [test->compile]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-library;2.12.7 [test->runtime(*)]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-library;2.12.7 [test->compile]
@@ -432,6 +499,32 @@
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-stm#scala-stm_2.12;0.9 [test->compile]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-stm#scala-stm_2.12;0.9 [test->compile(*)]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-stm#scala-stm_2.12;0.9 [test->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-sbt#test-interface;1.0 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.scala-sbt#test-interface;1.0 {test=[compile, runtime(*), master(compile), runtime, compile(*), master], test-internal=[compile, runtime(*), master(compile), runtime, compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#test-interface;1.0
+[debug] 	found org.scala-sbt#test-interface;1.0 in sbt-chain
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-sbt#test-interface;1.0 [test->runtime(*)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-sbt#test-interface;1.0 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-sbt#test-interface;1.0 [test->master(compile)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-sbt#test-interface;1.0 [test->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-sbt#test-interface;1.0 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-sbt#test-interface;1.0 [test->compile(*)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-sbt#test-interface;1.0 [test->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test->default]
+[debug] sbt-chain: Checking cache for: dependency: org.scalacheck#scalacheck_2.12;1.14.0 {test=[default, compile, runtime, default(compile), master], test-internal=[default, compile, runtime, default(compile), master]}
+[debug] sbt-chain: module revision found in cache: org.scalacheck#scalacheck_2.12;1.14.0
+[debug] 	found org.scalacheck#scalacheck_2.12;1.14.0 in sbt-chain
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test->default(compile)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test->master]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-java8-compat_2.12;0.8.0 [test->compile]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-java8-compat_2.12;0.8.0 [test->runtime(*)]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-java8-compat_2.12;0.8.0 [test->compile]
@@ -947,6 +1040,46 @@
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-agent_2.12;2.5.22 [test->compile]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-agent_2.12;2.5.22 [test->master]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-agent_2.12;2.5.22 [test->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalactic#scalactic_2.12;3.2.0-SNAP10 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalactic#scalactic_2.12;3.2.0-SNAP10 [test->runtime(*)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalactic#scalactic_2.12;3.2.0-SNAP10 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalactic#scalactic_2.12;3.2.0-SNAP10 [test->master(compile)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalactic#scalactic_2.12;3.2.0-SNAP10 [test->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalactic#scalactic_2.12;3.2.0-SNAP10 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalactic#scalactic_2.12;3.2.0-SNAP10 [test->compile(*)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalactic#scalactic_2.12;3.2.0-SNAP10 [test->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test->default]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test->default(compile)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test->runtime(*)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test->master(compile)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test->compile(*)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test->default]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test->default(compile)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test->master]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe#config;1.3.3 [test->compile]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe#config;1.3.3 [test->runtime(*)]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe#config;1.3.3 [test->compile]
@@ -955,10 +1088,19 @@
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe#config;1.3.3 [test->compile]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe#config;1.3.3 [test->compile(*)]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe#config;1.3.3 [test->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-reflect;2.12.7 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-reflect;2.12.7 [test->runtime(*)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-reflect;2.12.7 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-reflect;2.12.7 [test->master(compile)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-reflect;2.12.7 [test->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-reflect;2.12.7 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-reflect;2.12.7 [test->compile(*)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-reflect;2.12.7 [test->master]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-library;2.12.7 [test->default]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-library;2.12.7 [test->runtime]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-library;2.12.7 [test->compile]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-library;2.12.7 [test->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-library;2.12.7 [test->master(*)]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-library;2.12.7 [test->compile]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-library;2.12.7 [test->runtime(*)]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-library;2.12.7 [test->compile]
@@ -995,6 +1137,26 @@
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-stm#scala-stm_2.12;0.9 [test->compile]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-stm#scala-stm_2.12;0.9 [test->compile(*)]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-stm#scala-stm_2.12;0.9 [test->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-sbt#test-interface;1.0 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-sbt#test-interface;1.0 [test->runtime(*)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-sbt#test-interface;1.0 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-sbt#test-interface;1.0 [test->master(compile)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-sbt#test-interface;1.0 [test->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-sbt#test-interface;1.0 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-sbt#test-interface;1.0 [test->compile(*)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-sbt#test-interface;1.0 [test->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test->default]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test->default(compile)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test->master]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-java8-compat_2.12;0.8.0 [test->compile]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-java8-compat_2.12;0.8.0 [test->runtime(*)]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-java8-compat_2.12;0.8.0 [test->compile]
@@ -1017,6 +1179,46 @@
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-agent_2.12;2.5.22 [test-internal->compile]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-agent_2.12;2.5.22 [test-internal->master]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-agent_2.12;2.5.22 [test-internal->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalactic#scalactic_2.12;3.2.0-SNAP10 [test-internal->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalactic#scalactic_2.12;3.2.0-SNAP10 [test-internal->runtime(*)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalactic#scalactic_2.12;3.2.0-SNAP10 [test-internal->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalactic#scalactic_2.12;3.2.0-SNAP10 [test-internal->master(compile)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalactic#scalactic_2.12;3.2.0-SNAP10 [test-internal->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalactic#scalactic_2.12;3.2.0-SNAP10 [test-internal->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalactic#scalactic_2.12;3.2.0-SNAP10 [test-internal->compile(*)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalactic#scalactic_2.12;3.2.0-SNAP10 [test-internal->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test-internal->default]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test-internal->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test-internal->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test-internal->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test-internal->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test-internal->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test-internal->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test-internal->default(compile)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test-internal->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test-internal->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test-internal->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe.akka#akka-testkit_2.12;2.5.22 [test-internal->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test-internal->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test-internal->runtime(*)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test-internal->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test-internal->master(compile)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test-internal->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test-internal->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test-internal->compile(*)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test-internal->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test-internal->default]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test-internal->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test-internal->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test-internal->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test-internal->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test-internal->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test-internal->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test-internal->default(compile)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test-internal->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test-internal->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test-internal->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalatest#scalatest_2.12;3.2.0-SNAP10 [test-internal->master]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe#config;1.3.3 [test-internal->compile]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe#config;1.3.3 [test-internal->runtime(*)]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe#config;1.3.3 [test-internal->compile]
@@ -1025,10 +1227,19 @@
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe#config;1.3.3 [test-internal->compile]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe#config;1.3.3 [test-internal->compile(*)]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->com.typesafe#config;1.3.3 [test-internal->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-reflect;2.12.7 [test-internal->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-reflect;2.12.7 [test-internal->runtime(*)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-reflect;2.12.7 [test-internal->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-reflect;2.12.7 [test-internal->master(compile)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-reflect;2.12.7 [test-internal->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-reflect;2.12.7 [test-internal->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-reflect;2.12.7 [test-internal->compile(*)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-reflect;2.12.7 [test-internal->master]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-library;2.12.7 [test-internal->default]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-library;2.12.7 [test-internal->runtime]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-library;2.12.7 [test-internal->compile]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-library;2.12.7 [test-internal->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-library;2.12.7 [test-internal->master(*)]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-library;2.12.7 [test-internal->compile]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-library;2.12.7 [test-internal->runtime(*)]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-library;2.12.7 [test-internal->compile]
@@ -1065,6 +1276,26 @@
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-stm#scala-stm_2.12;0.9 [test-internal->compile]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-stm#scala-stm_2.12;0.9 [test-internal->compile(*)]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-stm#scala-stm_2.12;0.9 [test-internal->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-sbt#test-interface;1.0 [test-internal->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-sbt#test-interface;1.0 [test-internal->runtime(*)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-sbt#test-interface;1.0 [test-internal->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-sbt#test-interface;1.0 [test-internal->master(compile)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-sbt#test-interface;1.0 [test-internal->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-sbt#test-interface;1.0 [test-internal->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-sbt#test-interface;1.0 [test-internal->compile(*)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-sbt#test-interface;1.0 [test-internal->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test-internal->default]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test-internal->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test-internal->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test-internal->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test-internal->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test-internal->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test-internal->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test-internal->default(compile)]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test-internal->runtime]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test-internal->compile]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test-internal->master]
+[debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scalacheck#scalacheck_2.12;1.14.0 [test-internal->master]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-java8-compat_2.12;0.8.0 [test-internal->compile]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-java8-compat_2.12;0.8.0 [test-internal->runtime(*)]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-java8-compat_2.12;0.8.0 [test-internal->compile]
@@ -1116,9 +1347,6 @@
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-compiler;2.12.7 [scala-tool->optional(default)]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-compiler;2.12.7 [scala-tool->master]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.6 [scala-tool->master(*)]
-[debug] sbt-chain: Checking cache for: dependency: org.scala-lang.modules#scala-xml_2.12;1.0.6 {scala-tool=[master(*), compile, runtime(*), runtime, compile(*), master]}
-[debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.12;1.0.6
-[debug] 	found org.scala-lang.modules#scala-xml_2.12;1.0.6 in sbt-chain
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.6 [scala-tool->compile]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.6 [scala-tool->runtime(*)]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.6 [scala-tool->compile]
@@ -1127,10 +1355,6 @@
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.6 [scala-tool->compile(*)]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.6 [scala-tool->master]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-reflect;2.12.7 [scala-tool->master(*)]
-[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-reflect;2.12.7 {scala-tool=[master(*), compile, runtime(*), runtime, compile(*), master]}
-[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.12.7
-[debug] 	found org.scala-lang#scala-reflect;2.12.7 in sbt-chain
-[debug] 	[2.12.7] org.scala-lang#scala-reflect;2.12.7
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-reflect;2.12.7 [scala-tool->compile]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-reflect;2.12.7 [scala-tool->runtime(*)]
 [debug] == resolving dependencies hello-akka#hello-akka$sources;1.0->org.scala-lang#scala-reflect;2.12.7 [scala-tool->compile]
@@ -1165,30 +1389,30 @@
 [debug] no default ivy user dir defined: set to /home/grahamingokho/.ivy2
 [debug] 	[NOT REQUIRED] com.typesafe#config;1.3.3!config.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.12.7!scala-library.jar(src)
-[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-actor_2.12;2.5.22!akka-actor_2.12.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-stm#scala-stm_2.12;0.9!scala-stm_2.12.jar(src)
 [debug] no default ivy user dir defined: set to /home/grahamingokho/.ivy2
-[debug] no default ivy user dir defined: set to /home/grahamingokho/.ivy2
-[debug] no default ivy user dir defined: set to /home/grahamingokho/.ivy2
+[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-actor_2.12;2.5.22!akka-actor_2.12.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-java8-compat_2.12;0.8.0!scala-java8-compat_2.12.jar(src)
 [debug] no default ivy user dir defined: set to /home/grahamingokho/.ivy2
 [debug] no default ivy user dir defined: set to /home/grahamingokho/.ivy2
+[debug] no default ivy user dir defined: set to /home/grahamingokho/.ivy2
+[debug] no default ivy user dir defined: set to /home/grahamingokho/.ivy2
 [debug] including url: jar:file:/home/grahamingokho/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
 [debug] including url: jar:file:/home/grahamingokho/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
 [debug] including url: jar:file:/home/grahamingokho/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
 [debug] including url: jar:file:/home/grahamingokho/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
 [debug] including url: jar:file:/home/grahamingokho/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
 [debug] including url: jar:file:/home/grahamingokho/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] no default cache defined: set to /home/grahamingokho/.ivy2/cache
+[debug] no default cache defined: set to /home/grahamingokho/.ivy2/cache
+[debug] including url: jar:file:/home/grahamingokho/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] including url: jar:file:/home/grahamingokho/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
 [debug] no default cache defined: set to /home/grahamingokho/.ivy2/cache
 [debug] no default cache defined: set to /home/grahamingokho/.ivy2/cache
 [debug] no default cache defined: set to /home/grahamingokho/.ivy2/cache
 [debug] no default cache defined: set to /home/grahamingokho/.ivy2/cache
 [debug] including url: jar:file:/home/grahamingokho/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
 [debug] including url: jar:file:/home/grahamingokho/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] including url: jar:file:/home/grahamingokho/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] including url: jar:file:/home/grahamingokho/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] no default cache defined: set to /home/grahamingokho/.ivy2/cache
-[debug] no default cache defined: set to /home/grahamingokho/.ivy2/cache
 [debug] including url: jar:file:/home/grahamingokho/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
 [debug] including url: jar:file:/home/grahamingokho/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
 [debug] including url: jar:file:/home/grahamingokho/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
@@ -1208,44 +1432,8 @@
 [debug] including url: jar:file:/home/grahamingokho/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
 [debug] including url: jar:file:/home/grahamingokho/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
 [debug] including url: jar:file:/home/grahamingokho/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] settings loaded (44ms)
-[debug] settings loaded (42ms)
-[debug] 	default cache: /home/grahamingokho/.ivy2/cache
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	default cache: /home/grahamingokho/.ivy2/cache
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] 	shared [file]
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
-[debug] settings loaded (44ms)
-[debug] 	default cache: /home/grahamingokho/.ivy2/cache
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] 	main [chain] [shared, public]
-[debug] settings loaded (45ms)
-[debug] 	default cache: /home/grahamingokho/.ivy2/cache
-[debug] 	local [file]
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
 [debug] including url: jar:file:/home/grahamingokho/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] settings loaded (43ms)
+[debug] settings loaded (39ms)
 [debug] 	default cache: /home/grahamingokho/.ivy2/cache
 [debug] 	default resolver: default
 [debug] 	-- 5 resolvers:
@@ -1254,21 +1442,62 @@
 [debug] 	public [ibiblio]
 [debug] 	main [chain] [shared, public]
 [debug] 	local [file]
-[debug] 	[NOT REQUIRED] jline#jline;2.14.6!jline.jar(src)
+[debug] settings loaded (37ms)
+[debug] 	default cache: /home/grahamingokho/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] settings loaded (35ms)
+[debug] 	default cache: /home/grahamingokho/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] settings loaded (38ms)
+[debug] 	default cache: /home/grahamingokho/.ivy2/cache
+[debug] settings loaded (35ms)
+[debug] 	default resolver: default
+[debug] 	default cache: /home/grahamingokho/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	default [chain] [local, main]
+[debug] 	main [chain] [shared, public]
+[debug] 	public [ibiblio]
+[debug] 	local [file]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] settings loaded (38ms)
+[debug] 	default cache: /home/grahamingokho/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] 	[NOT REQUIRED] org.scalactic#scalactic_2.12;3.2.0-SNAP10!scalactic_2.12.jar(src)
+[debug] 	[NOT REQUIRED] org.scalatest#scalatest_2.12;3.2.0-SNAP10!scalatest_2.12.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.12.7!scala-reflect.jar(src)
-[debug] 	[NOT REQUIRED] org.scalameta#semanticdb-scalac_2.12.7;4.1.9!semanticdb-scalac_2.12.7.jar(src)
-[debug] settings loaded (51ms)
-[debug] 	default cache: /home/grahamingokho/.ivy2/cache
-[debug] 	default resolver: default
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar(src)
+[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-testkit_2.12;2.5.22!akka-testkit_2.12.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.12.7!scala-compiler.jar(src)
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
-[debug] :: resolution report :: resolve 332ms :: artifacts dl 71ms
+[debug] 	[NOT REQUIRED] org.scalameta#semanticdb-scalac_2.12.7;4.1.9!semanticdb-scalac_2.12.7.jar(src)
+[debug] 	[NOT REQUIRED] org.scalacheck#scalacheck_2.12;1.14.0!scalacheck_2.12.jar(src)
+[debug] 	[NOT REQUIRED] jline#jline;2.14.6!jline.jar(src)
+[debug] :: resolution report :: resolve 344ms :: artifacts dl 59ms
 [debug] 	report for hello-akka#hello-akka$sources;1.0 compile produced in /home/grahamingokho/code/helloakka/target/scala-2.12/resolution-cache/reports/hello-akka-hello-akka$sources-compile.xml
 [debug] 	report for hello-akka#hello-akka$sources;1.0 runtime produced in /home/grahamingokho/code/helloakka/target/scala-2.12/resolution-cache/reports/hello-akka-hello-akka$sources-runtime.xml
 [debug] 	report for hello-akka#hello-akka$sources;1.0 test produced in /home/grahamingokho/code/helloakka/target/scala-2.12/resolution-cache/reports/hello-akka-hello-akka$sources-test.xml
@@ -1280,4 +1509,4 @@
 [debug] 	report for hello-akka#hello-akka$sources;1.0 plugin produced in /home/grahamingokho/code/helloakka/target/scala-2.12/resolution-cache/reports/hello-akka-hello-akka$sources-plugin.xml
 [debug] 	report for hello-akka#hello-akka$sources;1.0 pom produced in /home/grahamingokho/code/helloakka/target/scala-2.12/resolution-cache/reports/hello-akka-hello-akka$sources-pom.xml
 [debug] 	report for hello-akka#hello-akka$sources;1.0 scala-tool produced in /home/grahamingokho/code/helloakka/target/scala-2.12/resolution-cache/reports/hello-akka-hello-akka$sources-scala-tool.xml
-[debug] 	resolve done (332ms resolve - 71ms download)
+[debug] 	resolve done (344ms resolve - 59ms download)
