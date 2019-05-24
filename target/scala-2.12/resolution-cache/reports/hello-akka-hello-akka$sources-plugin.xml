@@ -7,7 +7,7 @@
 		revision="1.0"
 		conf="plugin"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
-		date="20190523122133"/>
+		date="20190523193250"/>
 	<dependencies>
 		<module organisation="org.scalameta" name="semanticdb-scalac_2.12.7">
 			<revision name="4.1.9" status="release" pubdate="20190426002354" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/scalameta/scalameta" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="0">
