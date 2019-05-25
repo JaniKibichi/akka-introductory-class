@@ -40614,13 +40614,2743 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: 280
 	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
 	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
 
+May 25, 2019 5:52:50 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 2
+java.lang.StringIndexOutOfBoundsException: String index out of range: 2
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:52:51 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 3
+java.lang.StringIndexOutOfBoundsException: String index out of range: 3
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:52:51 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 4
+java.lang.StringIndexOutOfBoundsException: String index out of range: 4
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:52:51 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 5
+java.lang.StringIndexOutOfBoundsException: String index out of range: 5
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:52:51 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 6
+java.lang.StringIndexOutOfBoundsException: String index out of range: 6
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:52:51 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 7
+java.lang.StringIndexOutOfBoundsException: String index out of range: 7
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:52:52 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 9
+java.lang.StringIndexOutOfBoundsException: String index out of range: 9
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:52:52 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 10
+java.lang.StringIndexOutOfBoundsException: String index out of range: 10
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:52:52 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 12
+java.lang.StringIndexOutOfBoundsException: String index out of range: 12
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:52:53 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 13
+java.lang.StringIndexOutOfBoundsException: String index out of range: 13
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:52:53 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 14
+java.lang.StringIndexOutOfBoundsException: String index out of range: 14
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:52:53 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 15
+java.lang.StringIndexOutOfBoundsException: String index out of range: 15
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:52:53 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 16
+java.lang.StringIndexOutOfBoundsException: String index out of range: 16
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:52:53 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 17
+java.lang.StringIndexOutOfBoundsException: String index out of range: 17
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:52:54 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 18
+java.lang.StringIndexOutOfBoundsException: String index out of range: 18
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:52:54 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 19
+java.lang.StringIndexOutOfBoundsException: String index out of range: 19
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:52:54 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 20
+java.lang.StringIndexOutOfBoundsException: String index out of range: 20
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:52:54 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 21
+java.lang.StringIndexOutOfBoundsException: String index out of range: 21
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:52:54 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 22
+java.lang.StringIndexOutOfBoundsException: String index out of range: 22
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:52:54 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 23
+java.lang.StringIndexOutOfBoundsException: String index out of range: 23
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:52:55 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 24
+java.lang.StringIndexOutOfBoundsException: String index out of range: 24
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:52:55 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 25
+java.lang.StringIndexOutOfBoundsException: String index out of range: 25
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:52:56 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 26
+java.lang.StringIndexOutOfBoundsException: String index out of range: 26
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:52:56 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 27
+java.lang.StringIndexOutOfBoundsException: String index out of range: 27
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:52:56 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 28
+java.lang.StringIndexOutOfBoundsException: String index out of range: 28
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:52:56 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 29
+java.lang.StringIndexOutOfBoundsException: String index out of range: 29
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:53:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 32
+java.lang.StringIndexOutOfBoundsException: String index out of range: 32
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:53:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 33
+java.lang.StringIndexOutOfBoundsException: String index out of range: 33
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:53:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 34
+java.lang.StringIndexOutOfBoundsException: String index out of range: 34
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:53:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 35
+java.lang.StringIndexOutOfBoundsException: String index out of range: 35
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:53:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 36
+java.lang.StringIndexOutOfBoundsException: String index out of range: 36
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:53:01 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 37
+java.lang.StringIndexOutOfBoundsException: String index out of range: 37
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:53:02 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 39
+java.lang.StringIndexOutOfBoundsException: String index out of range: 39
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:53:02 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 40
+java.lang.StringIndexOutOfBoundsException: String index out of range: 40
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:53:03 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 40
+java.lang.StringIndexOutOfBoundsException: String index out of range: 40
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:53:03 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 41
+java.lang.StringIndexOutOfBoundsException: String index out of range: 41
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:53:03 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 42
+java.lang.StringIndexOutOfBoundsException: String index out of range: 42
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:53:04 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 43
+java.lang.StringIndexOutOfBoundsException: String index out of range: 43
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:53:04 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 44
+java.lang.StringIndexOutOfBoundsException: String index out of range: 44
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:53:05 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 46
+java.lang.StringIndexOutOfBoundsException: String index out of range: 46
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:53:05 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 47
+java.lang.StringIndexOutOfBoundsException: String index out of range: 47
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:53:05 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 48
+java.lang.StringIndexOutOfBoundsException: String index out of range: 48
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:53:07 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 49
+java.lang.StringIndexOutOfBoundsException: String index out of range: 49
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:53:20 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 69
+java.lang.StringIndexOutOfBoundsException: String index out of range: 69
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:53:20 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 71
+java.lang.StringIndexOutOfBoundsException: String index out of range: 71
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:53:21 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 72
+java.lang.StringIndexOutOfBoundsException: String index out of range: 72
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:53:21 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 74
+java.lang.StringIndexOutOfBoundsException: String index out of range: 74
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:53:21 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 76
+java.lang.StringIndexOutOfBoundsException: String index out of range: 76
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:53:21 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 77
+java.lang.StringIndexOutOfBoundsException: String index out of range: 77
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:53:21 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 78
+java.lang.StringIndexOutOfBoundsException: String index out of range: 78
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:53:23 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 80
+java.lang.StringIndexOutOfBoundsException: String index out of range: 80
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:53:23 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 81
+java.lang.StringIndexOutOfBoundsException: String index out of range: 81
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:53:23 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 82
+java.lang.StringIndexOutOfBoundsException: String index out of range: 82
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:53:24 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 83
+java.lang.StringIndexOutOfBoundsException: String index out of range: 83
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:53:35 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 101
+java.lang.StringIndexOutOfBoundsException: String index out of range: 101
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:53:37 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 106
+java.lang.StringIndexOutOfBoundsException: String index out of range: 106
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:53:39 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 112
+java.lang.StringIndexOutOfBoundsException: String index out of range: 112
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:53:40 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 118
+java.lang.StringIndexOutOfBoundsException: String index out of range: 118
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:53:40 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 119
+java.lang.StringIndexOutOfBoundsException: String index out of range: 119
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:54:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 138
+java.lang.StringIndexOutOfBoundsException: String index out of range: 138
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:54:02 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 144
+java.lang.StringIndexOutOfBoundsException: String index out of range: 144
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:54:07 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 150
+java.lang.StringIndexOutOfBoundsException: String index out of range: 150
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:54:07 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 151
+java.lang.StringIndexOutOfBoundsException: String index out of range: 151
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:54:07 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 152
+java.lang.StringIndexOutOfBoundsException: String index out of range: 152
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:54:08 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 153
+java.lang.StringIndexOutOfBoundsException: String index out of range: 153
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:54:08 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 154
+java.lang.StringIndexOutOfBoundsException: String index out of range: 154
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:54:09 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 156
+java.lang.StringIndexOutOfBoundsException: String index out of range: 156
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:54:09 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 157
+java.lang.StringIndexOutOfBoundsException: String index out of range: 157
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:54:10 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 158
+java.lang.StringIndexOutOfBoundsException: String index out of range: 158
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:54:10 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 159
+java.lang.StringIndexOutOfBoundsException: String index out of range: 159
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:54:10 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 160
+java.lang.StringIndexOutOfBoundsException: String index out of range: 160
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:54:11 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 160
+java.lang.StringIndexOutOfBoundsException: String index out of range: 160
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:54:12 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 161
+java.lang.StringIndexOutOfBoundsException: String index out of range: 161
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:54:12 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 162
+java.lang.StringIndexOutOfBoundsException: String index out of range: 162
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 5:54:13 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 164
+java.lang.StringIndexOutOfBoundsException: String index out of range: 164
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:32 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 2
+java.lang.StringIndexOutOfBoundsException: String index out of range: 2
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:32 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 3
+java.lang.StringIndexOutOfBoundsException: String index out of range: 3
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:33 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 4
+java.lang.StringIndexOutOfBoundsException: String index out of range: 4
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:34 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 4
+java.lang.StringIndexOutOfBoundsException: String index out of range: 4
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:34 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 5
+java.lang.StringIndexOutOfBoundsException: String index out of range: 5
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:35 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 6
+java.lang.StringIndexOutOfBoundsException: String index out of range: 6
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:35 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 7
+java.lang.StringIndexOutOfBoundsException: String index out of range: 7
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:36 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 9
+java.lang.StringIndexOutOfBoundsException: String index out of range: 9
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:37 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 10
+java.lang.StringIndexOutOfBoundsException: String index out of range: 10
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:37 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 11
+java.lang.StringIndexOutOfBoundsException: String index out of range: 11
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:37 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 12
+java.lang.StringIndexOutOfBoundsException: String index out of range: 12
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:40 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 13
+java.lang.StringIndexOutOfBoundsException: String index out of range: 13
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:40 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 14
+java.lang.StringIndexOutOfBoundsException: String index out of range: 14
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:40 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 15
+java.lang.StringIndexOutOfBoundsException: String index out of range: 15
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:41 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 16
+java.lang.StringIndexOutOfBoundsException: String index out of range: 16
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:41 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 17
+java.lang.StringIndexOutOfBoundsException: String index out of range: 17
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:41 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 18
+java.lang.StringIndexOutOfBoundsException: String index out of range: 18
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:41 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 19
+java.lang.StringIndexOutOfBoundsException: String index out of range: 19
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:41 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 20
+java.lang.StringIndexOutOfBoundsException: String index out of range: 20
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:41 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 21
+java.lang.StringIndexOutOfBoundsException: String index out of range: 21
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:42 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 22
+java.lang.StringIndexOutOfBoundsException: String index out of range: 22
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:42 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 23
+java.lang.StringIndexOutOfBoundsException: String index out of range: 23
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:44 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 24
+java.lang.StringIndexOutOfBoundsException: String index out of range: 24
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:44 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 25
+java.lang.StringIndexOutOfBoundsException: String index out of range: 25
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:44 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 26
+java.lang.StringIndexOutOfBoundsException: String index out of range: 26
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:45 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 27
+java.lang.StringIndexOutOfBoundsException: String index out of range: 27
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:45 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 28
+java.lang.StringIndexOutOfBoundsException: String index out of range: 28
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:45 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 29
+java.lang.StringIndexOutOfBoundsException: String index out of range: 29
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:49 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 32
+java.lang.StringIndexOutOfBoundsException: String index out of range: 32
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:49 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 33
+java.lang.StringIndexOutOfBoundsException: String index out of range: 33
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:50 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 34
+java.lang.StringIndexOutOfBoundsException: String index out of range: 34
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:50 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 35
+java.lang.StringIndexOutOfBoundsException: String index out of range: 35
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:50 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 36
+java.lang.StringIndexOutOfBoundsException: String index out of range: 36
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:50 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 37
+java.lang.StringIndexOutOfBoundsException: String index out of range: 37
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:51 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 39
+java.lang.StringIndexOutOfBoundsException: String index out of range: 39
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:52 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 40
+java.lang.StringIndexOutOfBoundsException: String index out of range: 40
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:52 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 41
+java.lang.StringIndexOutOfBoundsException: String index out of range: 41
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:53 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 41
+java.lang.StringIndexOutOfBoundsException: String index out of range: 41
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:53 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 42
+java.lang.StringIndexOutOfBoundsException: String index out of range: 42
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:54 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 41
+java.lang.StringIndexOutOfBoundsException: String index out of range: 41
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:54 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 42
+java.lang.StringIndexOutOfBoundsException: String index out of range: 42
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:54 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 43
+java.lang.StringIndexOutOfBoundsException: String index out of range: 43
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:55 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 44
+java.lang.StringIndexOutOfBoundsException: String index out of range: 44
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:55 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 46
+java.lang.StringIndexOutOfBoundsException: String index out of range: 46
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:55 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 47
+java.lang.StringIndexOutOfBoundsException: String index out of range: 47
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:55 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 48
+java.lang.StringIndexOutOfBoundsException: String index out of range: 48
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:01:57 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 49
+java.lang.StringIndexOutOfBoundsException: String index out of range: 49
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:14 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 78
+java.lang.StringIndexOutOfBoundsException: String index out of range: 78
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:18 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 85
+java.lang.StringIndexOutOfBoundsException: String index out of range: 85
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:19 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 87
+java.lang.StringIndexOutOfBoundsException: String index out of range: 87
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:19 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 90
+java.lang.StringIndexOutOfBoundsException: String index out of range: 90
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:20 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 91
+java.lang.StringIndexOutOfBoundsException: String index out of range: 91
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:20 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 92
+java.lang.StringIndexOutOfBoundsException: String index out of range: 92
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:20 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 93
+java.lang.StringIndexOutOfBoundsException: String index out of range: 93
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:20 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 94
+java.lang.StringIndexOutOfBoundsException: String index out of range: 94
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:22 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 95
+java.lang.StringIndexOutOfBoundsException: String index out of range: 95
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:22 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 96
+java.lang.StringIndexOutOfBoundsException: String index out of range: 96
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:23 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 98
+java.lang.StringIndexOutOfBoundsException: String index out of range: 98
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:23 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 99
+java.lang.StringIndexOutOfBoundsException: String index out of range: 99
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:23 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 100
+java.lang.StringIndexOutOfBoundsException: String index out of range: 100
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:23 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 101
+java.lang.StringIndexOutOfBoundsException: String index out of range: 101
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:26 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 104
+java.lang.StringIndexOutOfBoundsException: String index out of range: 104
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:27 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 106
+java.lang.StringIndexOutOfBoundsException: String index out of range: 106
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:27 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 107
+java.lang.StringIndexOutOfBoundsException: String index out of range: 107
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:27 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 109
+java.lang.StringIndexOutOfBoundsException: String index out of range: 109
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:27 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 111
+java.lang.StringIndexOutOfBoundsException: String index out of range: 111
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:27 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 112
+java.lang.StringIndexOutOfBoundsException: String index out of range: 112
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:28 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 113
+java.lang.StringIndexOutOfBoundsException: String index out of range: 113
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:29 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 115
+java.lang.StringIndexOutOfBoundsException: String index out of range: 115
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:30 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 118
+java.lang.StringIndexOutOfBoundsException: String index out of range: 118
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:30 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 119
+java.lang.StringIndexOutOfBoundsException: String index out of range: 119
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:30 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 120
+java.lang.StringIndexOutOfBoundsException: String index out of range: 120
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:30 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 121
+java.lang.StringIndexOutOfBoundsException: String index out of range: 121
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:30 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 122
+java.lang.StringIndexOutOfBoundsException: String index out of range: 122
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:31 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 123
+java.lang.StringIndexOutOfBoundsException: String index out of range: 123
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:32 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 124
+java.lang.StringIndexOutOfBoundsException: String index out of range: 124
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:32 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 125
+java.lang.StringIndexOutOfBoundsException: String index out of range: 125
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:32 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 126
+java.lang.StringIndexOutOfBoundsException: String index out of range: 126
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:32 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 127
+java.lang.StringIndexOutOfBoundsException: String index out of range: 127
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:32 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 128
+java.lang.StringIndexOutOfBoundsException: String index out of range: 128
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:50 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 154
+java.lang.StringIndexOutOfBoundsException: String index out of range: 154
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:52 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 160
+java.lang.StringIndexOutOfBoundsException: String index out of range: 160
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:52 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 161
+java.lang.StringIndexOutOfBoundsException: String index out of range: 161
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:52 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 162
+java.lang.StringIndexOutOfBoundsException: String index out of range: 162
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:53 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 163
+java.lang.StringIndexOutOfBoundsException: String index out of range: 163
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:53 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 164
+java.lang.StringIndexOutOfBoundsException: String index out of range: 164
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:53 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 165
+java.lang.StringIndexOutOfBoundsException: String index out of range: 165
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:53 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 166
+java.lang.StringIndexOutOfBoundsException: String index out of range: 166
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:54 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 167
+java.lang.StringIndexOutOfBoundsException: String index out of range: 167
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:54 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 168
+java.lang.StringIndexOutOfBoundsException: String index out of range: 168
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:54 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 169
+java.lang.StringIndexOutOfBoundsException: String index out of range: 169
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:54 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 170
+java.lang.StringIndexOutOfBoundsException: String index out of range: 170
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:55 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 172
+java.lang.StringIndexOutOfBoundsException: String index out of range: 172
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:56 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 173
+java.lang.StringIndexOutOfBoundsException: String index out of range: 173
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:56 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 174
+java.lang.StringIndexOutOfBoundsException: String index out of range: 174
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:56 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 175
+java.lang.StringIndexOutOfBoundsException: String index out of range: 175
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:56 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 176
+java.lang.StringIndexOutOfBoundsException: String index out of range: 176
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:56 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 177
+java.lang.StringIndexOutOfBoundsException: String index out of range: 177
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:56 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 178
+java.lang.StringIndexOutOfBoundsException: String index out of range: 178
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:02:57 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 180
+java.lang.StringIndexOutOfBoundsException: String index out of range: 180
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:03:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 60203
+May 25, 2019 6:21:40 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 2
+java.lang.StringIndexOutOfBoundsException: String index out of range: 2
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:41 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 3
+java.lang.StringIndexOutOfBoundsException: String index out of range: 3
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:41 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 4
+java.lang.StringIndexOutOfBoundsException: String index out of range: 4
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:41 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 5
+java.lang.StringIndexOutOfBoundsException: String index out of range: 5
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:41 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 6
+java.lang.StringIndexOutOfBoundsException: String index out of range: 6
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:41 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 7
+java.lang.StringIndexOutOfBoundsException: String index out of range: 7
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:43 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 9
+java.lang.StringIndexOutOfBoundsException: String index out of range: 9
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:43 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 10
+java.lang.StringIndexOutOfBoundsException: String index out of range: 10
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:43 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 11
+java.lang.StringIndexOutOfBoundsException: String index out of range: 11
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:44 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 12
+java.lang.StringIndexOutOfBoundsException: String index out of range: 12
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:44 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 13
+java.lang.StringIndexOutOfBoundsException: String index out of range: 13
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:44 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 14
+java.lang.StringIndexOutOfBoundsException: String index out of range: 14
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:44 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 15
+java.lang.StringIndexOutOfBoundsException: String index out of range: 15
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:45 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 16
+java.lang.StringIndexOutOfBoundsException: String index out of range: 16
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:45 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 17
+java.lang.StringIndexOutOfBoundsException: String index out of range: 17
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:45 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 18
+java.lang.StringIndexOutOfBoundsException: String index out of range: 18
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:45 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 19
+java.lang.StringIndexOutOfBoundsException: String index out of range: 19
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:46 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 20
+java.lang.StringIndexOutOfBoundsException: String index out of range: 20
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:46 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 21
+java.lang.StringIndexOutOfBoundsException: String index out of range: 21
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:46 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 22
+java.lang.StringIndexOutOfBoundsException: String index out of range: 22
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:46 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 23
+java.lang.StringIndexOutOfBoundsException: String index out of range: 23
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:47 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 24
+java.lang.StringIndexOutOfBoundsException: String index out of range: 24
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:47 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 25
+java.lang.StringIndexOutOfBoundsException: String index out of range: 25
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:48 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 26
+java.lang.StringIndexOutOfBoundsException: String index out of range: 26
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:48 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 27
+java.lang.StringIndexOutOfBoundsException: String index out of range: 27
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:48 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 28
+java.lang.StringIndexOutOfBoundsException: String index out of range: 28
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:48 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 29
+java.lang.StringIndexOutOfBoundsException: String index out of range: 29
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:52 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 32
+java.lang.StringIndexOutOfBoundsException: String index out of range: 32
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:52 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 33
+java.lang.StringIndexOutOfBoundsException: String index out of range: 33
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:53 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 34
+java.lang.StringIndexOutOfBoundsException: String index out of range: 34
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:53 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 35
+java.lang.StringIndexOutOfBoundsException: String index out of range: 35
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:53 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 36
+java.lang.StringIndexOutOfBoundsException: String index out of range: 36
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:53 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 37
+java.lang.StringIndexOutOfBoundsException: String index out of range: 37
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:54 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 39
+java.lang.StringIndexOutOfBoundsException: String index out of range: 39
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:55 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 40
+java.lang.StringIndexOutOfBoundsException: String index out of range: 40
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:55 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 41
+java.lang.StringIndexOutOfBoundsException: String index out of range: 41
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:55 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 42
+java.lang.StringIndexOutOfBoundsException: String index out of range: 42
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:56 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 43
+java.lang.StringIndexOutOfBoundsException: String index out of range: 43
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:56 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 44
+java.lang.StringIndexOutOfBoundsException: String index out of range: 44
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:57 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 46
+java.lang.StringIndexOutOfBoundsException: String index out of range: 46
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:57 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 47
+java.lang.StringIndexOutOfBoundsException: String index out of range: 47
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:57 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 48
+java.lang.StringIndexOutOfBoundsException: String index out of range: 48
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:21:59 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 49
+java.lang.StringIndexOutOfBoundsException: String index out of range: 49
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:24 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 81
+java.lang.StringIndexOutOfBoundsException: String index out of range: 81
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:27 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 88
+java.lang.StringIndexOutOfBoundsException: String index out of range: 88
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:29 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 92
+java.lang.StringIndexOutOfBoundsException: String index out of range: 92
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:29 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 93
+java.lang.StringIndexOutOfBoundsException: String index out of range: 93
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:30 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 95
+java.lang.StringIndexOutOfBoundsException: String index out of range: 95
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:30 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 96
+java.lang.StringIndexOutOfBoundsException: String index out of range: 96
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:30 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 97
+java.lang.StringIndexOutOfBoundsException: String index out of range: 97
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:30 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 98
+java.lang.StringIndexOutOfBoundsException: String index out of range: 98
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:30 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 99
+java.lang.StringIndexOutOfBoundsException: String index out of range: 99
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:32 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 100
+java.lang.StringIndexOutOfBoundsException: String index out of range: 100
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:33 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 101
+java.lang.StringIndexOutOfBoundsException: String index out of range: 101
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:35 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 106
+java.lang.StringIndexOutOfBoundsException: String index out of range: 106
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:36 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 107
+java.lang.StringIndexOutOfBoundsException: String index out of range: 107
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:36 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 108
+java.lang.StringIndexOutOfBoundsException: String index out of range: 108
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:36 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 109
+java.lang.StringIndexOutOfBoundsException: String index out of range: 109
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:36 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 110
+java.lang.StringIndexOutOfBoundsException: String index out of range: 110
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:38 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 111
+java.lang.StringIndexOutOfBoundsException: String index out of range: 111
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:38 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 112
+java.lang.StringIndexOutOfBoundsException: String index out of range: 112
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:38 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 113
+java.lang.StringIndexOutOfBoundsException: String index out of range: 113
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:38 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 114
+java.lang.StringIndexOutOfBoundsException: String index out of range: 114
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:39 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 113
+java.lang.StringIndexOutOfBoundsException: String index out of range: 113
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:39 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 114
+java.lang.StringIndexOutOfBoundsException: String index out of range: 114
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:44 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 116
+java.lang.StringIndexOutOfBoundsException: String index out of range: 116
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:46 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 123
+java.lang.StringIndexOutOfBoundsException: String index out of range: 123
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:47 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 125
+java.lang.StringIndexOutOfBoundsException: String index out of range: 125
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:47 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 126
+java.lang.StringIndexOutOfBoundsException: String index out of range: 126
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:47 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 127
+java.lang.StringIndexOutOfBoundsException: String index out of range: 127
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:48 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 128
+java.lang.StringIndexOutOfBoundsException: String index out of range: 128
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:49 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 129
+java.lang.StringIndexOutOfBoundsException: String index out of range: 129
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:50 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 131
+java.lang.StringIndexOutOfBoundsException: String index out of range: 131
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:50 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 132
+java.lang.StringIndexOutOfBoundsException: String index out of range: 132
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:51 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 133
+java.lang.StringIndexOutOfBoundsException: String index out of range: 133
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:51 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 134
+java.lang.StringIndexOutOfBoundsException: String index out of range: 134
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:51 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 135
+java.lang.StringIndexOutOfBoundsException: String index out of range: 135
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:52 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 135
+java.lang.StringIndexOutOfBoundsException: String index out of range: 135
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:53 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 136
+java.lang.StringIndexOutOfBoundsException: String index out of range: 136
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:53 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 137
+java.lang.StringIndexOutOfBoundsException: String index out of range: 137
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:53 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 138
+java.lang.StringIndexOutOfBoundsException: String index out of range: 138
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:55 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 139
+java.lang.StringIndexOutOfBoundsException: String index out of range: 139
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:55 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 140
+java.lang.StringIndexOutOfBoundsException: String index out of range: 140
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:55 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 141
+java.lang.StringIndexOutOfBoundsException: String index out of range: 141
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:56 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 142
+java.lang.StringIndexOutOfBoundsException: String index out of range: 142
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:56 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 143
+java.lang.StringIndexOutOfBoundsException: String index out of range: 143
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:56 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 144
+java.lang.StringIndexOutOfBoundsException: String index out of range: 144
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:57 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 145
+java.lang.StringIndexOutOfBoundsException: String index out of range: 145
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:57 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 146
+java.lang.StringIndexOutOfBoundsException: String index out of range: 146
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:57 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 147
+java.lang.StringIndexOutOfBoundsException: String index out of range: 147
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:58 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 148
+java.lang.StringIndexOutOfBoundsException: String index out of range: 148
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:22:58 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 149
+java.lang.StringIndexOutOfBoundsException: String index out of range: 149
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:23:01 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 152
+java.lang.StringIndexOutOfBoundsException: String index out of range: 152
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:23:02 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 153
+java.lang.StringIndexOutOfBoundsException: String index out of range: 153
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:23:02 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 154
+java.lang.StringIndexOutOfBoundsException: String index out of range: 154
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:23:02 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 155
+java.lang.StringIndexOutOfBoundsException: String index out of range: 155
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:23:02 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 156
+java.lang.StringIndexOutOfBoundsException: String index out of range: 156
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:23:02 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 157
+java.lang.StringIndexOutOfBoundsException: String index out of range: 157
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:23:04 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 159
+java.lang.StringIndexOutOfBoundsException: String index out of range: 159
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:23:05 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 164
+java.lang.StringIndexOutOfBoundsException: String index out of range: 164
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:23:05 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 165
+java.lang.StringIndexOutOfBoundsException: String index out of range: 165
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:23:06 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 166
+java.lang.StringIndexOutOfBoundsException: String index out of range: 166
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:23:06 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 167
+java.lang.StringIndexOutOfBoundsException: String index out of range: 167
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:23:07 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 168
+java.lang.StringIndexOutOfBoundsException: String index out of range: 168
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:23:07 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 169
+java.lang.StringIndexOutOfBoundsException: String index out of range: 169
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:23:07 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 170
+java.lang.StringIndexOutOfBoundsException: String index out of range: 170
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:23:08 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 171
+java.lang.StringIndexOutOfBoundsException: String index out of range: 171
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:23:08 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 172
+java.lang.StringIndexOutOfBoundsException: String index out of range: 172
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:23:08 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 173
+java.lang.StringIndexOutOfBoundsException: String index out of range: 173
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:23:08 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 174
+java.lang.StringIndexOutOfBoundsException: String index out of range: 174
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:23:10 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 176
+java.lang.StringIndexOutOfBoundsException: String index out of range: 176
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:23:10 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 177
+java.lang.StringIndexOutOfBoundsException: String index out of range: 177
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:23:10 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 178
+java.lang.StringIndexOutOfBoundsException: String index out of range: 178
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:23:10 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 179
+java.lang.StringIndexOutOfBoundsException: String index out of range: 179
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:23:11 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 179
+java.lang.StringIndexOutOfBoundsException: String index out of range: 179
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:23:11 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 180
+java.lang.StringIndexOutOfBoundsException: String index out of range: 180
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:23:11 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 181
+java.lang.StringIndexOutOfBoundsException: String index out of range: 181
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:23:12 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 182
+java.lang.StringIndexOutOfBoundsException: String index out of range: 182
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:23:13 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 184
+java.lang.StringIndexOutOfBoundsException: String index out of range: 184
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:23:14 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: 186
+java.lang.StringIndexOutOfBoundsException: String index out of range: 186
+	at java.lang.String.charAt(String.java:658)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled(Completions.scala:1607)
+	at scala.meta.internal.pc.Completions.isSnippetEnabled$(Completions.scala:1606)
+	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
+
+May 25, 2019 6:23:52 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+May 25, 2019 6:24:36 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+May 25, 2019 6:24:36 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: implicit class <error> extends  (of class scala.reflect.internal.Trees$ClassDef)
+scala.MatchError: implicit class <error> extends  (of class scala.reflect.internal.Trees$ClassDef)
+	at scala.tools.nsc.typechecker.Unapplies.constrParamss(Unapplies.scala:57)
+	at scala.tools.nsc.typechecker.Unapplies.factoryMeth(Unapplies.scala:134)
+	at scala.tools.nsc.typechecker.Unapplies.factoryMeth$(Unapplies.scala:131)
+	at scala.meta.internal.pc.MetalsGlobal$$anon$1.factoryMeth(MetalsGlobal.scala:38)
+	at scala.tools.nsc.typechecker.MethodSynthesis$MethodSynth.enterImplicitWrapper(MethodSynthesis.scala:223)
+	at scala.tools.nsc.typechecker.MethodSynthesis$MethodSynth.enterImplicitWrapper$(MethodSynthesis.scala:222)
+	at scala.tools.nsc.typechecker.Namers$Namer.enterImplicitWrapper(Namers.scala:51)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$InteractiveNamer.enterExistingSym(Global.scala:86)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$InteractiveNamer.enterExistingSym$(Global.scala:72)
+	at scala.tools.nsc.interactive.InteractiveAnalyzer$$anon$7.enterExistingSym(Global.scala:43)
+	at scala.tools.nsc.typechecker.Namers$Namer.standardEnterSym(Namers.scala:287)
+	at scala.tools.nsc.typechecker.AnalyzerPlugins.pluginsEnterSym(AnalyzerPlugins.scala:454)
+	at scala.tools.nsc.typechecker.AnalyzerPlugins.pluginsEnterSym$(AnalyzerPlugins.scala:453)
+	at scala.meta.internal.pc.MetalsGlobal$$anon$1.pluginsEnterSym(MetalsGlobal.scala:38)
+	at scala.tools.nsc.typechecker.Namers$Namer.enterSym(Namers.scala:261)
+	at scala.tools.nsc.typechecker.Typers$Typer.enterSym(Typers.scala:1915)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$enterSyms$1(Typers.scala:1910)
+	at scala.tools.nsc.typechecker.Typers$Typer.enterSyms(Typers.scala:1910)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:1972)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedModuleDef(Typers.scala:1868)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5538)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5617)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5681)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3264)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3264)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5247)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5540)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5617)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$TyperPhase.apply(Analyzer.scala:106)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:441)
+	at scala.tools.nsc.interactive.Global$TyperRun.$anonfun$applyPhase$1(Global.scala:1332)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1332)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1325)
+	at scala.tools.nsc.interactive.Global.typeCheck(Global.scala:657)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:806)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1217)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:353)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+
+May 25, 2019 6:27:57 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+May 25, 2019 6:27:57 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: assertion failed: file:///home/grahamingokho/code/helloakka/src/main/scala/com/janikibichi/seven/ScalingOutApplication.scala: 611 >= 611
+java.lang.AssertionError: assertion failed: file:///home/grahamingokho/code/helloakka/src/main/scala/com/janikibichi/seven/ScalingOutApplication.scala: 611 >= 611
+	at scala.reflect.internal.util.SourceFile.position(SourceFile.scala:26)
+	at scala.tools.nsc.CompilationUnits$CompilationUnit.position(CompilationUnits.scala:111)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:21)
+
 INFO  compiling helloakka (1 scala source)
-INFO  time: compiled helloakka in 83ms
+WARN  there was one deprecation warning (since 2.12.0); re-run with -deprecation for details
+WARN  there was one feature warning; re-run with -feature for details
+INFO  time: compiled helloakka in 0.11s
 INFO  compiling helloakka (1 scala source)
-INFO  time: compiled helloakka in 86ms
+WARN  there was one deprecation warning (since 2.12.0); re-run with -deprecation for details
+WARN  there was one feature warning; re-run with -feature for details
+INFO  time: compiled helloakka in 0.1s
 INFO  compiling helloakka (1 scala source)
-INFO  time: compiled helloakka in 84ms
+WARN  there was one deprecation warning (since 2.12.0); re-run with -deprecation for details
+WARN  there was one feature warning; re-run with -feature for details
+INFO  time: compiled helloakka in 0.11s
 INFO  compiling helloakka (1 scala source)
-INFO  time: compiled helloakka in 91ms
+WARN  there was one deprecation warning (since 2.12.0); re-run with -deprecation for details
+WARN  there was one feature warning; re-run with -feature for details
+INFO  time: compiled helloakka in 0.12s
 INFO  compiling helloakka (1 scala source)
-INFO  time: compiled helloakka in 89ms
+WARN  there was one deprecation warning (since 2.12.0); re-run with -deprecation for details
+WARN  there was one feature warning; re-run with -feature for details
+INFO  time: compiled helloakka in 0.15s
+INFO  compiling helloakka (1 scala source)
+WARN  there was one deprecation warning (since 2.12.0); re-run with -deprecation for details
+WARN  there was one feature warning; re-run with -feature for details
+INFO  time: compiled helloakka in 0.14s

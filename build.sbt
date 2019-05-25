@@ -24,5 +24,8 @@ libraryDependencies += "com.typesafe.akka" %% "akka-persistence-cassandra" % "0.
 
 libraryDependencies += "com.hootsuite" %% "akka-persistence-redis" % "0.8.0" % "runtime"
 
+libraryDependencies += "com.github.romix.akka" %% "akka-kryo-serialization" % "0.5.2"
+
+
 
 
