@@ -4,7 +4,7 @@
 		module="hello-akka_2.12"
 		revision="1.0"
 		status="integration"
-		publication="20190525155131"
+		publication="20190525201233"
 	>
 		<description>
 		Hello-Akka
@@ -42,5 +42,6 @@
 		<dependency org="org.fusesource.leveldbjni" name="leveldbjni-all" rev="1.8" conf="compile->default(compile)"/>
 		<dependency org="com.typesafe.akka" name="akka-persistence-cassandra_2.12" rev="0.97" conf="compile->default(compile)"/>
 		<dependency org="com.hootsuite" name="akka-persistence-redis_2.12" rev="0.8.0" conf="runtime->default(compile)"/>
+		<dependency org="com.github.romix.akka" name="akka-kryo-serialization_2.12" rev="0.5.2" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>
