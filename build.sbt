@@ -26,6 +26,12 @@ libraryDependencies += "com.hootsuite" %% "akka-persistence-redis" % "0.8.0" % "
 
 libraryDependencies += "com.github.romix.akka" %% "akka-kryo-serialization" % "0.5.2"
 
+libraryDependencies += "com.typesafe.akka" %% "akka-cluster" % "2.5.19"
+
+libraryDependencies += "com.typesafe.akka" %% "akka-cluster-sharding" % "2.5.19"
+
+libraryDependencies += "com.typesafe.akka" %% "akka-distributed-data" % "2.5.19"
+
 
 
 
