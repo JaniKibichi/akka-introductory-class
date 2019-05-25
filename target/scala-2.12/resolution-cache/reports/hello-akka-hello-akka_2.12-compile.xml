@@ -7,7 +7,7 @@
 		revision="1.0"
 		conf="compile"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
-		date="20190525134759"/>
+		date="20190525151504"/>
 	<dependencies>
 		<module organisation="com.typesafe.akka" name="akka-persistence-cassandra_2.12">
 			<revision name="0.97" status="release" pubdate="20190513205558" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/akka/akka-persistence-cassandra" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="11">

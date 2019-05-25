@@ -4,7 +4,7 @@
 		module="hello-akka_2.12"
 		revision="1.0"
 		status="integration"
-		publication="20190525134759"
+		publication="20190525151504"
 	>
 		<description>
 		Hello-Akka
@@ -41,5 +41,6 @@
 		<dependency org="org.iq80.leveldb" name="leveldb" rev="0.10" conf="compile->default(compile)"/>
 		<dependency org="org.fusesource.leveldbjni" name="leveldbjni-all" rev="1.8" conf="compile->default(compile)"/>
 		<dependency org="com.typesafe.akka" name="akka-persistence-cassandra_2.12" rev="0.97" conf="compile->default(compile)"/>
+		<dependency org="com.hootsuite" name="akka-persistence-redis_2.12" rev="0.8.0" conf="runtime->default(compile)"/>
 	</dependencies>
 </ivy-module>

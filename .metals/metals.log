@@ -37294,7 +37294,59 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: 453
 	at scala.meta.internal.pc.MetalsGlobal.isSnippetEnabled(MetalsGlobal.scala:22)
 	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:46)
 
-INFO  compiling helloakka (1 scala source)
-INFO  time: compiled helloakka in 93ms
-INFO  compiling helloakka (1 scala source)
-INFO  time: compiled helloakka in 0.11s
+shutdown request received: build/shutdown
+Client in /home/grahamingokho/code/helloakka/.bloop triggered cancellation. Cancelling tasks...
+The task for 'bsp --protocol local --socket /tmp/bsp4725550037003548273/4z6emtlawg6v.socket' finished.
+The server is listening for incoming connections at local:///tmp/bsp6865078163516067013/ad5nj0hgo29l.socket...
+Accepted incoming BSP client connection at local:///tmp/bsp6865078163516067013/ad5nj0hgo29l.socket
+request received: build/initialize
+BSP initialization handshake complete.
+ing settings for project helloakka-build from assembly.sbt ...
+INFO  [info] Loading project definition from /home/grahamingokho/code/helloakka/project
+INFO  [info] Updating ProjectRef(uri("file:/home/grahamingokho/code/helloakka/project/"), "helloakka-build")...
+INFO  [info] Done updating.
+INFO  [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
+INFO  [success] Generated .bloop/helloakka-build.json
+INFO  [success] Total time: 2 s, completed May 25, 2019 3:11:28 PM
+INFO  [info] Updating ProjectRef(uri("file:/home/grahamingokho/code/helloakka/project/"), "helloakka-build")...
+INFO  [info] Done updating.
+INFO  [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
+INFO  [info] Loading settings for project helloakka from build.sbt ...
+INFO  [info] Set current project to Hello-Akka (in build file:/home/grahamingokho/code/helloakka/)
+INFO  [info] Set current project to Hello-Akka (in build file:/home/grahamingokho/code/helloakka/)
+INFO  [info] semanticdb-scalac is enabled
+INFO  [info] Updating ...
+INFO  [info] downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-contrib_2.12/2.4.12/akka-contrib_2.12-2.4.12.jar ...
+INFO  [info] downloading https://repo1.maven.org/maven2/com/hootsuite/akka-persistence-redis_2.12/0.8.0/akka-persistence-redis_2.12-0.8.0.jar ...
+[info] downloading https://repo1.maven.org/maven2/com/github/etaty/rediscala_2.12/1.8.0/rediscala_2.12-1.8.0.jar ...
+INFO  [info] downloading https://repo1.maven.org/maven2/net/databinder/dispatch/dispatch-core_2.12/0.12.0/dispatch-core_2.12-0.12.0.jar ...
+INFO  [info] downloading https://repo1.maven.org/maven2/com/ning/async-http-client/1.9.11/async-http-client-1.9.11.jar ...
+INFO  [info] 	[SUCCESSFUL ] com.typesafe.akka#akka-contrib_2.12;2.4.12!akka-contrib_2.12.jar (1702ms)
+INFO  [info] 	[SUCCESSFUL ] net.databinder.dispatch#dispatch-core_2.12;0.12.0!dispatch-core_2.12.jar (2088ms)
+INFO  [info] 	[SUCCESSFUL ] com.hootsuite#akka-persistence-redis_2.12;0.8.0!akka-persistence-redis_2.12.jar (2103ms)
+INFO  [info] 	[SUCCESSFUL ] com.ning#async-http-client;1.9.11!async-http-client.jar (2491ms)
+INFO  [info] 	[SUCCESSFUL ] com.github.etaty#rediscala_2.12;1.8.0!rediscala_2.12.jar (3524ms)
+INFO  [info] Done updating.
+INFO  [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
+INFO  [info] downloading https://repo1.maven.org/maven2/com/github/etaty/rediscala_2.12/1.8.0/rediscala_2.12-1.8.0-sources.jar ...
+INFO  [info] downloading https://repo1.maven.org/maven2/net/databinder/dispatch/dispatch-core_2.12/0.12.0/dispatch-core_2.12-0.12.0-sources.jar ...
+INFO  [info] downloading https://repo1.maven.org/maven2/com/hootsuite/akka-persistence-redis_2.12/0.8.0/akka-persistence-redis_2.12-0.8.0-sources.jar ...
+INFO  [info] downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-contrib_2.12/2.4.12/akka-contrib_2.12-2.4.12-sources.jar ...
+INFO  [info] downloading https://repo1.maven.org/maven2/com/ning/async-http-client/1.9.11/async-http-client-1.9.11-sources.jar ...
+INFO  [info] 	[SUCCESSFUL ] net.databinder.dispatch#dispatch-core_2.12;0.12.0!dispatch-core_2.12.jar(src) (847ms)
+INFO  [info] 	[SUCCESSFUL ] com.github.etaty#rediscala_2.12;1.8.0!rediscala_2.12.jar(src) (847ms)
+INFO  [info] 	[SUCCESSFUL ] com.hootsuite#akka-persistence-redis_2.12;0.8.0!akka-persistence-redis_2.12.jar(src) (938ms)
+INFO  [info] 	[SUCCESSFUL ] com.typesafe.akka#akka-contrib_2.12;2.4.12!akka-contrib_2.12.jar(src) (964ms)
+INFO  [info] 	[SUCCESSFUL ] com.ning#async-http-client;1.9.11!async-http-client.jar(src) (1074ms)
+INFO  [success] Generated .bloop/helloakka.json
+INFO  [success] Generated .bloop/helloakka-test.json
+INFO  [success] Total time: 14 s, completed May 25, 2019 3:11:45 PM
+INFO  sbt exit: 0
+INFO  time: ran 'sbt bloopInstall' in 25s
+INFO  bloop exit: 0
+INFO  running embedded 'bloop bsp --protocol local --socket /tmp/bsp6865078163516067013/ad5nj0hgo29l.socket'
+INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/grahamingokho/.cache/metals/bsp.trace.json
+INFO  time: connected to build server in 0.22s
+INFO  disconnected: build server
+INFO  time: indexed workspace in 0.42s
+ERROR timeout: build server 'bloop' during shutdown
