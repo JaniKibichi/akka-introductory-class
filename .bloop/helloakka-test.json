@@ -24,7 +24,47 @@
             "/home/grahamingokho/.ivy2/cache/com.typesafe.akka/akka-protobuf_2.12/jars/akka-protobuf_2.12-2.5.22.jar",
             "/home/grahamingokho/.ivy2/cache/org.iq80.leveldb/leveldb/jars/leveldb-0.10.jar",
             "/home/grahamingokho/.ivy2/cache/org.iq80.leveldb/leveldb-api/jars/leveldb-api-0.10.jar",
-            "/home/grahamingokho/.ivy2/cache/com.google.guava/guava/bundles/guava-21.0.jar",
+            "/home/grahamingokho/.ivy2/cache/org.fusesource.leveldbjni/leveldbjni-all/bundles/leveldbjni-all-1.8.jar",
+            "/home/grahamingokho/.ivy2/cache/com.typesafe.akka/akka-persistence-cassandra_2.12/bundles/akka-persistence-cassandra_2.12-0.97.jar",
+            "/home/grahamingokho/.ivy2/cache/com.datastax.cassandra/cassandra-driver-core/jars/cassandra-driver-core-3.6.0.jar",
+            "/home/grahamingokho/.ivy2/cache/io.netty/netty-handler/jars/netty-handler-4.0.56.Final.jar",
+            "/home/grahamingokho/.ivy2/cache/io.netty/netty-buffer/jars/netty-buffer-4.0.56.Final.jar",
+            "/home/grahamingokho/.ivy2/cache/io.netty/netty-common/jars/netty-common-4.0.56.Final.jar",
+            "/home/grahamingokho/.ivy2/cache/io.netty/netty-transport/jars/netty-transport-4.0.56.Final.jar",
+            "/home/grahamingokho/.ivy2/cache/io.netty/netty-codec/jars/netty-codec-4.0.56.Final.jar",
+            "/home/grahamingokho/.ivy2/cache/com.google.guava/guava/bundles/guava-27.0.1-jre.jar",
+            "/home/grahamingokho/.ivy2/cache/com.google.guava/failureaccess/bundles/failureaccess-1.0.1.jar",
+            "/home/grahamingokho/.ivy2/cache/com.google.guava/listenablefuture/jars/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar",
+            "/home/grahamingokho/.ivy2/cache/com.google.code.findbugs/jsr305/jars/jsr305-3.0.2.jar",
+            "/home/grahamingokho/.ivy2/cache/org.checkerframework/checker-qual/jars/checker-qual-2.5.2.jar",
+            "/home/grahamingokho/.ivy2/cache/com.google.errorprone/error_prone_annotations/jars/error_prone_annotations-2.2.0.jar",
+            "/home/grahamingokho/.ivy2/cache/com.google.j2objc/j2objc-annotations/jars/j2objc-annotations-1.1.jar",
+            "/home/grahamingokho/.ivy2/cache/org.codehaus.mojo/animal-sniffer-annotations/jars/animal-sniffer-annotations-1.17.jar",
+            "/home/grahamingokho/.ivy2/cache/io.dropwizard.metrics/metrics-core/bundles/metrics-core-3.2.2.jar",
+            "/home/grahamingokho/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.25.jar",
+            "/home/grahamingokho/.ivy2/cache/com.github.jnr/jnr-ffi/jars/jnr-ffi-2.1.7.jar",
+            "/home/grahamingokho/.ivy2/cache/com.github.jnr/jffi/jars/jffi-1.2.16.jar",
+            "/home/grahamingokho/.ivy2/cache/com.github.jnr/jffi/jars/jffi-1.2.16-native.jar",
+            "/home/grahamingokho/.ivy2/cache/org.ow2.asm/asm/jars/asm-5.0.3.jar",
+            "/home/grahamingokho/.ivy2/cache/org.ow2.asm/asm-commons/jars/asm-commons-5.0.3.jar",
+            "/home/grahamingokho/.ivy2/cache/org.ow2.asm/asm-tree/jars/asm-tree-5.0.3.jar",
+            "/home/grahamingokho/.ivy2/cache/org.ow2.asm/asm-analysis/jars/asm-analysis-5.0.3.jar",
+            "/home/grahamingokho/.ivy2/cache/org.ow2.asm/asm-util/jars/asm-util-5.0.3.jar",
+            "/home/grahamingokho/.ivy2/cache/com.github.jnr/jnr-x86asm/jars/jnr-x86asm-1.0.2.jar",
+            "/home/grahamingokho/.ivy2/cache/com.github.jnr/jnr-posix/jars/jnr-posix-3.0.45.jar",
+            "/home/grahamingokho/.ivy2/cache/com.github.jnr/jnr-constants/jars/jnr-constants-0.9.9.jar",
+            "/home/grahamingokho/.ivy2/cache/com.typesafe.akka/akka-cluster-tools_2.12/jars/akka-cluster-tools_2.12-2.5.19.jar",
+            "/home/grahamingokho/.ivy2/cache/com.typesafe.akka/akka-cluster_2.12/jars/akka-cluster_2.12-2.5.19.jar",
+            "/home/grahamingokho/.ivy2/cache/com.typesafe.akka/akka-remote_2.12/jars/akka-remote_2.12-2.5.19.jar",
+            "/home/grahamingokho/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/jars/akka-stream_2.12-2.5.19.jar",
+            "/home/grahamingokho/.ivy2/cache/org.reactivestreams/reactive-streams/jars/reactive-streams-1.0.2.jar",
+            "/home/grahamingokho/.ivy2/cache/com.typesafe/ssl-config-core_2.12/bundles/ssl-config-core_2.12-0.3.6.jar",
+            "/home/grahamingokho/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.12/bundles/scala-parser-combinators_2.12-1.1.1.jar",
+            "/home/grahamingokho/.ivy2/cache/io.netty/netty/bundles/netty-3.10.6.Final.jar",
+            "/home/grahamingokho/.ivy2/cache/io.aeron/aeron-driver/jars/aeron-driver-1.12.0.jar",
+            "/home/grahamingokho/.ivy2/cache/org.agrona/agrona/jars/agrona-0.9.27.jar",
+            "/home/grahamingokho/.ivy2/cache/io.aeron/aeron-client/jars/aeron-client-1.12.0.jar",
+            "/home/grahamingokho/.ivy2/cache/com.typesafe.akka/akka-persistence-query_2.12/jars/akka-persistence-query_2.12-2.5.19.jar",
             "/home/grahamingokho/.ivy2/cache/com.typesafe.akka/akka-testkit_2.12/jars/akka-testkit_2.12-2.5.22.jar",
             "/home/grahamingokho/.ivy2/cache/org.scalatest/scalatest_2.12/bundles/scalatest_2.12-3.2.0-SNAP10.jar",
             "/home/grahamingokho/.ivy2/cache/org.scalactic/scalactic_2.12/bundles/scalactic_2.12-3.2.0-SNAP10.jar",
@@ -281,18 +321,632 @@
                     ]
                 },
                 {
+                    "organization" : "org.fusesource.leveldbjni",
+                    "name" : "leveldbjni-all",
+                    "version" : "1.8",
+                    "artifacts" : [
+                        {
+                            "name" : "leveldbjni-all",
+                            "path" : "/home/grahamingokho/.ivy2/cache/org.fusesource.leveldbjni/leveldbjni-all/bundles/leveldbjni-all-1.8.jar"
+                        },
+                        {
+                            "name" : "leveldbjni-all",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/org.fusesource.leveldbjni/leveldbjni-all/srcs/leveldbjni-all-1.8-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "com.typesafe.akka",
+                    "name" : "akka-persistence-cassandra_2.12",
+                    "version" : "0.97",
+                    "artifacts" : [
+                        {
+                            "name" : "akka-persistence-cassandra_2.12",
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.typesafe.akka/akka-persistence-cassandra_2.12/bundles/akka-persistence-cassandra_2.12-0.97.jar"
+                        },
+                        {
+                            "name" : "akka-persistence-cassandra_2.12",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.typesafe.akka/akka-persistence-cassandra_2.12/srcs/akka-persistence-cassandra_2.12-0.97-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "com.datastax.cassandra",
+                    "name" : "cassandra-driver-core",
+                    "version" : "3.6.0",
+                    "artifacts" : [
+                        {
+                            "name" : "cassandra-driver-core",
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.datastax.cassandra/cassandra-driver-core/jars/cassandra-driver-core-3.6.0.jar"
+                        },
+                        {
+                            "name" : "cassandra-driver-core",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.datastax.cassandra/cassandra-driver-core/srcs/cassandra-driver-core-3.6.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "io.netty",
+                    "name" : "netty-handler",
+                    "version" : "4.0.56.Final",
+                    "artifacts" : [
+                        {
+                            "name" : "netty-handler",
+                            "path" : "/home/grahamingokho/.ivy2/cache/io.netty/netty-handler/jars/netty-handler-4.0.56.Final.jar"
+                        },
+                        {
+                            "name" : "netty-handler",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/io.netty/netty-handler/srcs/netty-handler-4.0.56.Final-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "io.netty",
+                    "name" : "netty-buffer",
+                    "version" : "4.0.56.Final",
+                    "artifacts" : [
+                        {
+                            "name" : "netty-buffer",
+                            "path" : "/home/grahamingokho/.ivy2/cache/io.netty/netty-buffer/jars/netty-buffer-4.0.56.Final.jar"
+                        },
+                        {
+                            "name" : "netty-buffer",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/io.netty/netty-buffer/srcs/netty-buffer-4.0.56.Final-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "io.netty",
+                    "name" : "netty-common",
+                    "version" : "4.0.56.Final",
+                    "artifacts" : [
+                        {
+                            "name" : "netty-common",
+                            "path" : "/home/grahamingokho/.ivy2/cache/io.netty/netty-common/jars/netty-common-4.0.56.Final.jar"
+                        },
+                        {
+                            "name" : "netty-common",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/io.netty/netty-common/srcs/netty-common-4.0.56.Final-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "io.netty",
+                    "name" : "netty-transport",
+                    "version" : "4.0.56.Final",
+                    "artifacts" : [
+                        {
+                            "name" : "netty-transport",
+                            "path" : "/home/grahamingokho/.ivy2/cache/io.netty/netty-transport/jars/netty-transport-4.0.56.Final.jar"
+                        },
+                        {
+                            "name" : "netty-transport",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/io.netty/netty-transport/srcs/netty-transport-4.0.56.Final-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "io.netty",
+                    "name" : "netty-codec",
+                    "version" : "4.0.56.Final",
+                    "artifacts" : [
+                        {
+                            "name" : "netty-codec",
+                            "path" : "/home/grahamingokho/.ivy2/cache/io.netty/netty-codec/jars/netty-codec-4.0.56.Final.jar"
+                        },
+                        {
+                            "name" : "netty-codec",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/io.netty/netty-codec/srcs/netty-codec-4.0.56.Final-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "io.dropwizard.metrics",
+                    "name" : "metrics-core",
+                    "version" : "3.2.2",
+                    "artifacts" : [
+                        {
+                            "name" : "metrics-core",
+                            "path" : "/home/grahamingokho/.ivy2/cache/io.dropwizard.metrics/metrics-core/bundles/metrics-core-3.2.2.jar"
+                        },
+                        {
+                            "name" : "metrics-core",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/io.dropwizard.metrics/metrics-core/srcs/metrics-core-3.2.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "org.slf4j",
+                    "name" : "slf4j-api",
+                    "version" : "1.7.25",
+                    "artifacts" : [
+                        {
+                            "name" : "slf4j-api",
+                            "path" : "/home/grahamingokho/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.25.jar"
+                        },
+                        {
+                            "name" : "slf4j-api",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/org.slf4j/slf4j-api/srcs/slf4j-api-1.7.25-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "org.ow2.asm",
+                    "name" : "asm",
+                    "version" : "5.0.3",
+                    "artifacts" : [
+                        {
+                            "name" : "asm",
+                            "path" : "/home/grahamingokho/.ivy2/cache/org.ow2.asm/asm/jars/asm-5.0.3.jar"
+                        },
+                        {
+                            "name" : "asm",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/org.ow2.asm/asm/srcs/asm-5.0.3-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "org.ow2.asm",
+                    "name" : "asm-commons",
+                    "version" : "5.0.3",
+                    "artifacts" : [
+                        {
+                            "name" : "asm-commons",
+                            "path" : "/home/grahamingokho/.ivy2/cache/org.ow2.asm/asm-commons/jars/asm-commons-5.0.3.jar"
+                        },
+                        {
+                            "name" : "asm-commons",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/org.ow2.asm/asm-commons/srcs/asm-commons-5.0.3-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "org.ow2.asm",
+                    "name" : "asm-tree",
+                    "version" : "5.0.3",
+                    "artifacts" : [
+                        {
+                            "name" : "asm-tree",
+                            "path" : "/home/grahamingokho/.ivy2/cache/org.ow2.asm/asm-tree/jars/asm-tree-5.0.3.jar"
+                        },
+                        {
+                            "name" : "asm-tree",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/org.ow2.asm/asm-tree/srcs/asm-tree-5.0.3-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "org.ow2.asm",
+                    "name" : "asm-analysis",
+                    "version" : "5.0.3",
+                    "artifacts" : [
+                        {
+                            "name" : "asm-analysis",
+                            "path" : "/home/grahamingokho/.ivy2/cache/org.ow2.asm/asm-analysis/jars/asm-analysis-5.0.3.jar"
+                        },
+                        {
+                            "name" : "asm-analysis",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/org.ow2.asm/asm-analysis/srcs/asm-analysis-5.0.3-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "org.ow2.asm",
+                    "name" : "asm-util",
+                    "version" : "5.0.3",
+                    "artifacts" : [
+                        {
+                            "name" : "asm-util",
+                            "path" : "/home/grahamingokho/.ivy2/cache/org.ow2.asm/asm-util/jars/asm-util-5.0.3.jar"
+                        },
+                        {
+                            "name" : "asm-util",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/org.ow2.asm/asm-util/srcs/asm-util-5.0.3-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "com.github.jnr",
+                    "name" : "jnr-x86asm",
+                    "version" : "1.0.2",
+                    "artifacts" : [
+                        {
+                            "name" : "jnr-x86asm",
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.github.jnr/jnr-x86asm/jars/jnr-x86asm-1.0.2.jar"
+                        },
+                        {
+                            "name" : "jnr-x86asm",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.github.jnr/jnr-x86asm/srcs/jnr-x86asm-1.0.2-sources.jar"
+                        }
+                    ]
+                },
+                {
                     "organization" : "com.google.guava",
                     "name" : "guava",
-                    "version" : "21.0",
+                    "version" : "27.0.1-jre",
                     "artifacts" : [
                         {
                             "name" : "guava",
-                            "path" : "/home/grahamingokho/.ivy2/cache/com.google.guava/guava/bundles/guava-21.0.jar"
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.google.guava/guava/bundles/guava-27.0.1-jre.jar"
                         },
                         {
                             "name" : "guava",
                             "classifier" : "sources",
-                            "path" : "/home/grahamingokho/.ivy2/cache/com.google.guava/guava/srcs/guava-21.0-sources.jar"
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.google.guava/guava/srcs/guava-27.0.1-jre-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "com.google.guava",
+                    "name" : "failureaccess",
+                    "version" : "1.0.1",
+                    "artifacts" : [
+                        {
+                            "name" : "failureaccess",
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.google.guava/failureaccess/bundles/failureaccess-1.0.1.jar"
+                        },
+                        {
+                            "name" : "failureaccess",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.google.guava/failureaccess/srcs/failureaccess-1.0.1-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "com.google.guava",
+                    "name" : "listenablefuture",
+                    "version" : "9999.0-empty-to-avoid-conflict-with-guava",
+                    "artifacts" : [
+                        {
+                            "name" : "listenablefuture",
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.google.guava/listenablefuture/jars/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "com.google.code.findbugs",
+                    "name" : "jsr305",
+                    "version" : "3.0.2",
+                    "artifacts" : [
+                        {
+                            "name" : "jsr305",
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.google.code.findbugs/jsr305/jars/jsr305-3.0.2.jar"
+                        },
+                        {
+                            "name" : "jsr305",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.google.code.findbugs/jsr305/srcs/jsr305-3.0.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "org.checkerframework",
+                    "name" : "checker-qual",
+                    "version" : "2.5.2",
+                    "artifacts" : [
+                        {
+                            "name" : "checker-qual",
+                            "path" : "/home/grahamingokho/.ivy2/cache/org.checkerframework/checker-qual/jars/checker-qual-2.5.2.jar"
+                        },
+                        {
+                            "name" : "checker-qual",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/org.checkerframework/checker-qual/srcs/checker-qual-2.5.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "com.google.errorprone",
+                    "name" : "error_prone_annotations",
+                    "version" : "2.2.0",
+                    "artifacts" : [
+                        {
+                            "name" : "error_prone_annotations",
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.google.errorprone/error_prone_annotations/jars/error_prone_annotations-2.2.0.jar"
+                        },
+                        {
+                            "name" : "error_prone_annotations",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.google.errorprone/error_prone_annotations/srcs/error_prone_annotations-2.2.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "com.google.j2objc",
+                    "name" : "j2objc-annotations",
+                    "version" : "1.1",
+                    "artifacts" : [
+                        {
+                            "name" : "j2objc-annotations",
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.google.j2objc/j2objc-annotations/jars/j2objc-annotations-1.1.jar"
+                        },
+                        {
+                            "name" : "j2objc-annotations",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.google.j2objc/j2objc-annotations/srcs/j2objc-annotations-1.1-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "org.codehaus.mojo",
+                    "name" : "animal-sniffer-annotations",
+                    "version" : "1.17",
+                    "artifacts" : [
+                        {
+                            "name" : "animal-sniffer-annotations",
+                            "path" : "/home/grahamingokho/.ivy2/cache/org.codehaus.mojo/animal-sniffer-annotations/jars/animal-sniffer-annotations-1.17.jar"
+                        },
+                        {
+                            "name" : "animal-sniffer-annotations",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/org.codehaus.mojo/animal-sniffer-annotations/srcs/animal-sniffer-annotations-1.17-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "com.github.jnr",
+                    "name" : "jnr-posix",
+                    "version" : "3.0.45",
+                    "artifacts" : [
+                        {
+                            "name" : "jnr-posix",
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.github.jnr/jnr-posix/jars/jnr-posix-3.0.45.jar"
+                        },
+                        {
+                            "name" : "jnr-posix",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.github.jnr/jnr-posix/srcs/jnr-posix-3.0.45-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "com.github.jnr",
+                    "name" : "jnr-constants",
+                    "version" : "0.9.9",
+                    "artifacts" : [
+                        {
+                            "name" : "jnr-constants",
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.github.jnr/jnr-constants/jars/jnr-constants-0.9.9.jar"
+                        },
+                        {
+                            "name" : "jnr-constants",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.github.jnr/jnr-constants/srcs/jnr-constants-0.9.9-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "com.typesafe.akka",
+                    "name" : "akka-cluster-tools_2.12",
+                    "version" : "2.5.19",
+                    "artifacts" : [
+                        {
+                            "name" : "akka-cluster-tools_2.12",
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.typesafe.akka/akka-cluster-tools_2.12/jars/akka-cluster-tools_2.12-2.5.19.jar"
+                        },
+                        {
+                            "name" : "akka-cluster-tools_2.12",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.typesafe.akka/akka-cluster-tools_2.12/srcs/akka-cluster-tools_2.12-2.5.19-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "com.typesafe.akka",
+                    "name" : "akka-cluster_2.12",
+                    "version" : "2.5.19",
+                    "artifacts" : [
+                        {
+                            "name" : "akka-cluster_2.12",
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.typesafe.akka/akka-cluster_2.12/jars/akka-cluster_2.12-2.5.19.jar"
+                        },
+                        {
+                            "name" : "akka-cluster_2.12",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.typesafe.akka/akka-cluster_2.12/srcs/akka-cluster_2.12-2.5.19-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "com.typesafe.akka",
+                    "name" : "akka-remote_2.12",
+                    "version" : "2.5.19",
+                    "artifacts" : [
+                        {
+                            "name" : "akka-remote_2.12",
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.typesafe.akka/akka-remote_2.12/jars/akka-remote_2.12-2.5.19.jar"
+                        },
+                        {
+                            "name" : "akka-remote_2.12",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.typesafe.akka/akka-remote_2.12/srcs/akka-remote_2.12-2.5.19-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "com.typesafe.akka",
+                    "name" : "akka-stream_2.12",
+                    "version" : "2.5.19",
+                    "artifacts" : [
+                        {
+                            "name" : "akka-stream_2.12",
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/jars/akka-stream_2.12-2.5.19.jar"
+                        },
+                        {
+                            "name" : "akka-stream_2.12",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/srcs/akka-stream_2.12-2.5.19-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "org.reactivestreams",
+                    "name" : "reactive-streams",
+                    "version" : "1.0.2",
+                    "artifacts" : [
+                        {
+                            "name" : "reactive-streams",
+                            "path" : "/home/grahamingokho/.ivy2/cache/org.reactivestreams/reactive-streams/jars/reactive-streams-1.0.2.jar"
+                        },
+                        {
+                            "name" : "reactive-streams",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/org.reactivestreams/reactive-streams/srcs/reactive-streams-1.0.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "com.typesafe",
+                    "name" : "ssl-config-core_2.12",
+                    "version" : "0.3.6",
+                    "artifacts" : [
+                        {
+                            "name" : "ssl-config-core_2.12",
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.typesafe/ssl-config-core_2.12/bundles/ssl-config-core_2.12-0.3.6.jar"
+                        },
+                        {
+                            "name" : "ssl-config-core_2.12",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.typesafe/ssl-config-core_2.12/srcs/ssl-config-core_2.12-0.3.6-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "org.scala-lang.modules",
+                    "name" : "scala-parser-combinators_2.12",
+                    "version" : "1.1.1",
+                    "artifacts" : [
+                        {
+                            "name" : "scala-parser-combinators_2.12",
+                            "path" : "/home/grahamingokho/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.12/bundles/scala-parser-combinators_2.12-1.1.1.jar"
+                        },
+                        {
+                            "name" : "scala-parser-combinators_2.12",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.12/srcs/scala-parser-combinators_2.12-1.1.1-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "io.netty",
+                    "name" : "netty",
+                    "version" : "3.10.6.Final",
+                    "artifacts" : [
+                        {
+                            "name" : "netty",
+                            "path" : "/home/grahamingokho/.ivy2/cache/io.netty/netty/bundles/netty-3.10.6.Final.jar"
+                        },
+                        {
+                            "name" : "netty",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/io.netty/netty/srcs/netty-3.10.6.Final-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "io.aeron",
+                    "name" : "aeron-driver",
+                    "version" : "1.12.0",
+                    "artifacts" : [
+                        {
+                            "name" : "aeron-driver",
+                            "path" : "/home/grahamingokho/.ivy2/cache/io.aeron/aeron-driver/jars/aeron-driver-1.12.0.jar"
+                        },
+                        {
+                            "name" : "aeron-driver",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/io.aeron/aeron-driver/srcs/aeron-driver-1.12.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "org.agrona",
+                    "name" : "agrona",
+                    "version" : "0.9.27",
+                    "artifacts" : [
+                        {
+                            "name" : "agrona",
+                            "path" : "/home/grahamingokho/.ivy2/cache/org.agrona/agrona/jars/agrona-0.9.27.jar"
+                        },
+                        {
+                            "name" : "agrona",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/org.agrona/agrona/srcs/agrona-0.9.27-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "io.aeron",
+                    "name" : "aeron-client",
+                    "version" : "1.12.0",
+                    "artifacts" : [
+                        {
+                            "name" : "aeron-client",
+                            "path" : "/home/grahamingokho/.ivy2/cache/io.aeron/aeron-client/jars/aeron-client-1.12.0.jar"
+                        },
+                        {
+                            "name" : "aeron-client",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/io.aeron/aeron-client/srcs/aeron-client-1.12.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "com.typesafe.akka",
+                    "name" : "akka-persistence-query_2.12",
+                    "version" : "2.5.19",
+                    "artifacts" : [
+                        {
+                            "name" : "akka-persistence-query_2.12",
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.typesafe.akka/akka-persistence-query_2.12/jars/akka-persistence-query_2.12-2.5.19.jar"
+                        },
+                        {
+                            "name" : "akka-persistence-query_2.12",
+                            "classifier" : "sources",
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.typesafe.akka/akka-persistence-query_2.12/srcs/akka-persistence-query_2.12-2.5.19-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "com.github.jnr",
+                    "name" : "jnr-ffi",
+                    "version" : "2.1.7",
+                    "artifacts" : [
+                        {
+                            "name" : "jnr-ffi",
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.github.jnr/jnr-ffi/jars/jnr-ffi-2.1.7.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "com.github.jnr",
+                    "name" : "jffi",
+                    "version" : "1.2.16",
+                    "artifacts" : [
+                        {
+                            "name" : "jffi",
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.github.jnr/jffi/jars/jffi-1.2.16.jar"
+                        },
+                        {
+                            "name" : "jffi",
+                            "classifier" : "native",
+                            "path" : "/home/grahamingokho/.ivy2/cache/com.github.jnr/jffi/jars/jffi-1.2.16-native.jar"
                         }
                     ]
                 },

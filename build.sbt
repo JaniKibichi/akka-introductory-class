@@ -18,4 +18,10 @@ libraryDependencies += "com.typesafe.akka" %% "akka-persistence" % "2.5.22"
 
 libraryDependencies += "org.iq80.leveldb" % "leveldb" % "0.10"
 
+libraryDependencies += "org.fusesource.leveldbjni" % "leveldbjni-all" % "1.8"
+
+libraryDependencies += "com.typesafe.akka" %% "akka-persistence-cassandra" % "0.97"
+
+
+
 

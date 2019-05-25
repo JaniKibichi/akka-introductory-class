@@ -19,6 +19,8 @@ case class ActiveUsers(users: Set[String] = Set.empty[String]){
     override def toString = s"$users"
 }
 
+case object ShutdownPersistentActor
+
 class PersistenceActor extends PersistentActor{
     override val persistenceId = "unique-id-1"
     var state = ActiveUsers()
@@ -43,5 +45,10 @@ class PersistenceActor extends PersistentActor{
         case "snap" => saveSnapshot(state)
 
         case "print" => println(state)
+
+        case ShutdownPersistentActor =>
+            context.stop(self)
     }
+    override def postStop() = println(s"Stopping [${self.path}]")
 }
+

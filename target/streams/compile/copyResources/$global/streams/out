@@ -1,4 +1,5 @@
 [0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
 [0m[[0m[0mdebug[0m] [0m[0m	(/home/grahamingokho/code/helloakka/src/main/resources/akka.conf,/home/grahamingokho/code/helloakka/target/scala-2.12/classes/akka.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/grahamingokho/code/helloakka/src/main/resources/application-cassandra.conf,/home/grahamingokho/code/helloakka/target/scala-2.12/classes/application-cassandra.conf)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	(/home/grahamingokho/code/helloakka/src/main/resources/reference.conf,/home/grahamingokho/code/helloakka/target/scala-2.12/classes/reference.conf)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	(/home/grahamingokho/code/helloakka/src/main/resources/application.conf,/home/grahamingokho/code/helloakka/target/scala-2.12/classes/application.conf)[0m
