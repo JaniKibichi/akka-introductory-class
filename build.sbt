@@ -28,9 +28,13 @@ libraryDependencies += "com.github.romix.akka" %% "akka-kryo-serialization" % "0
 
 libraryDependencies += "com.typesafe.akka" %% "akka-cluster" % "2.5.19"
 
+libraryDependencies += "com.typesafe.akka" %% "akka-distributed-data" % "2.5.19"
+
 libraryDependencies += "com.typesafe.akka" %% "akka-cluster-sharding" % "2.5.19"
 
-libraryDependencies += "com.typesafe.akka" %% "akka-distributed-data" % "2.5.19"
+libraryDependencies += "com.typesafe.akka" %% "akka-http" % "10.1.1"
+
+libraryDependencies += "com.typesafe.akka" %% "akka-stream" % "2.5.19"
 
 
 
